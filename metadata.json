@@ -1,0 +1,8 @@
+{
+  "name": "Pak Copyright Fixer",
+  "description": "Legal Android video editing app to fix videos by replacing copyrighted music with royalty-free NCS music and AI voice-overs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
